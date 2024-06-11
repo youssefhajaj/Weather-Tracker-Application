@@ -31,7 +31,15 @@ Weather Tracker is a simple web app providing real-time weather updates for any 
 
 ## Screenshots
 
-(Add relevant screenshots of your application here)
+<div style="display:flex;gap:10px;">
+    <img src="ScreenShots/agadir.png" width="500" />
+    <img src="ScreenShots/casablanca.png" width="500" />
+    <img src="ScreenShots/ait baha.png" width="500" />
+</div>
+
+## if you have errors fetshing the data just make sure you have the correct API Key for OpenWeather here
+
+<img src="ScreenShots/api key.png" width="500" />
 
 ## License
 
