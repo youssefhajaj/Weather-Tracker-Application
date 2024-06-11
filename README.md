@@ -28,9 +28,6 @@ Weather Tracker is a simple web app providing real-time weather updates for any 
 3. **Search for Weather**:
     Enter a city name in the search bar and click the search button to retrieve weather information.
 
-## Demo
-
-Check out the live demo [here](#) (add link to your live demo if available).
 
 ## Screenshots
 
